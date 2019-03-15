@@ -2,7 +2,7 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
-#aaaa
+
 export PATH="/home/tchiclas/Downloads/apache-maven-3.6.0/bin":"/home/tchiclas/Downloads/jdk1.8.0_201":$PATH
 #added for  maven
 export  M2_HOME="/home/tchiclas/Downloads/apache-maven-3.6.0":$PATH
@@ -11,7 +11,7 @@ export JAVA_HOME='/home/tchiclas/Downloads/jdk1.8.0_201/'
 
 export CVSROOT=:ext:ist186496@sigma.ist.utl.pt:/afs/ist.utl.pt/groups/leic-co/co19/cvs/013
 
-
+#did it work?
 #================================================
 #                   ALIAS                        
 #
