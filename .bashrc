@@ -16,8 +16,9 @@ export CVSROOT=:ext:ist186496@sigma.ist.utl.pt:/afs/ist.utl.pt/groups/leic-co/co
 #                   ALIAS                        
 #
 #================================================
-
+#prepares env to work 
 alias IST='/home/tchiclas/Desktop/scripts/3ano2semestre.sh'
+#saves and loads config files to and from git
 alias CONF='/home/tchiclas/Desktop/scripts/git_config.sh'
 
 
