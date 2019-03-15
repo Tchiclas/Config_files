@@ -11,7 +11,7 @@ export JAVA_HOME='/home/tchiclas/Downloads/jdk1.8.0_201/'
 
 export CVSROOT=:ext:ist186496@sigma.ist.utl.pt:/afs/ist.utl.pt/groups/leic-co/co19/cvs/013
 
-#did it work?
+
 #================================================
 #                   ALIAS                        
 #
