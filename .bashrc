@@ -18,6 +18,7 @@ export CVSROOT=:ext:ist186496@sigma.ist.utl.pt:/afs/ist.utl.pt/groups/leic-co/co
 #================================================
 
 alias IST='/home/tchiclas/Desktop/scripts/3ano2semestre.sh'
+alias CONF='/home/tchiclas/Desktop/scripts/git_config.sh'
 
 
 #If not running interactively, don't do anything
